@@ -1,0 +1,113 @@
+Boilerplate Sailracing Translations,,,,
+Lang Key,Default Value,sn,Section,Remarks
+404_heading,OFF COURSE,SÅKLART,404 page,
+404_subheading,"Use our navigation menu to get you back on course. 
+If you were directed here via a link, we will be very grateful if you inform our crew.","Använd vår navigeringsmeny för att få dig tillbaka på kursen.
+Om du blev dirigerad hit via en länk, kommer vi att vara mycket tacksamma om du informerar vår besättning.
+",404 page,
+Ac_heading,Welcome,Välkommen,Account,Account Heading
+Ac_subheading,"Welcome to your Sailracing HQ. You will be able to request returns,
+manage your orders and see exciting deals and latest news from Sailracing.","Välkommen till ditt Sailracing HQ. Du kommer att kunna begära returer,
+hantera dina beställningar och se spännande erbjudanden och senaste nyheter från Sailracing.
+",Account,Account subheading
+Ac_details,Order Details,Orderdetaljer,Account,Account details
+history,Order History,Beställningshistorik,Account,
+order_history,Order History,Beställningshistorik,Account,
+account,My Account,Mitt konto,Account,
+empty_order_list,Your order list is empty,Din beställningslista är tom,Account,
+login_heading,Login,Logga in,Login,
+login_subheading,"Sign up for latest news about our products, stories and exclusive VIP sale invitation online 
+and at our concept stores Sail Racing Club House.'","Registrera dig för de senaste nyheterna om våra produkter, berättelser och exklusiv VIP-försäljningsinbjudan online
+och i våra konceptbutiker Sail Racing Club House.'
+",Login,
+email,Email,E-post,Common Form,
+email_placeholder,Enter your Email,Skriv in din e-postadress,Login,
+phone,Mobile Phone,"Mobiltelefon,
+Förnamn",Common Form,
+first_name,First Name,"Förnamn,
+Mellannamn",Common Form,
+middle_name,Middle Name,Mellannamn,Common Form,
+last_name,Last Name,Efternamn,Common Form,
+addr1,Address 1,Adress 1,Common Form,
+dob,Date of Birth,Födelsedatum,Common Form,Date of Birth
+gender,Gender,"Kön,",Common Form,
+pw,Password,"Lösenord,",Common Form,Password
+pw_placeholder,Enter your Password,"Ange ditt lösenord,",,
+pw_confirm,Password Confirmation,"Lösenordsbekräftelse,",Common Form,Confirm Password
+current_pw,Current Password,"Nuvarande lösenord,",Common Form,
+postcode,Postcode,"Postnummer,",Common Form,
+vat,VAT Number,"Momsregistreringsnummer,",Common Form,
+Country,Country,"Land,",Common Form,
+Region,Region,"Område,",Common Form,
+City,City,"Stad,",Common Form,
+register_heading,Create Account,"Skapa konto,",Register,
+register_subheading,My Account,Mitt konto,Register,
+register_copywriting,"Sign up for latest news about our products, stories and exclusive VIP sale invitation online 
+and at our concept stores Sail Racing Club House.","Registrera dig för de senaste nyheterna om våra produkter, berättelser och exklusiv VIP-försäljningsinbjudan online_x000D_
+och i våra konceptbutiker Sail Racing Club House.",Register,
+male,Male,Manlig,Register,
+Female,Female,Kvinna,Register,
+search_result_l1,Your search did not have any result,Din sökning gav inga resultat,Search,
+search_result_l2,"Seems like you searched a combination that does not match any of our products.
+We have carefully taken a log of this and will do our best to expand our Sail Racing 
+sortiment to maybe in the future match your search ","Det verkar som om du sökte efter en kombination som inte matchar någon av våra produkter._x000D_
+Vi har noggrant tagit en logg över detta och kommer att göra vårt bästa för att utöka vår Sail Racing_x000D_
+sortiment för att kanske i framtiden matcha din sökning ",Search,
+search_result,Search Result,Sökresultat,Search,
+not_found,Opps!!!,Oj!!!,Search,
+price,Price,Pris,Cart,
+cart,Cart,Vagn,Cart,
+add_to_cart,Add to Cart,Lägg till i kundvagn,Cart,
+shopping_bag,Shopping Bag,Shoppingkasse,Cart,
+available_sizes,Available Sizes,Tillgängliga storlekar,Cart,
+available_colors,Available Colors,Tillgängliga färger,Cart,
+item_is_in_stock,Item is in Stock,Varan finns i lager,Cart,
+out_of_stock,Out of Stock,Slut i lager,Cart,
+no_item_in_cart,No item in Cart,"Inget föremål i Cartde,",Cart,
+total_in_cart,Total in Cart,"Momsregistreringsnummer,",Cart,
+included_tax,Included Tax,"Land,",Cart,
+total_items,Total Items,"Område,",Cart,
+checkout,Checkout,"Stad,",Checkout,
+billing,Billing,"Skapa konto,",Checkout,
+create_account,Create Account?,Mitt konto,Checkout,"Donot forget the question mark
+during translation"
+is_billing_same_as_shipping,Is Billing Address same as Shipping Address,Är faktureringsadress samma som leveransadress,Checkout,
+same_as_shipping,Same as Shipping Address,Samma som leveransadressen,Account,
+cart_is_empty,Your Cart is currently empty,Din varukorg är för närvarande tom,Checkout,
+already_have_ac,I already have a account,Jag har redan ett konto,Register,
+fname_empty,First name is required,Förnamn krävs,Validation,
+fname_number,First name can't have numbers,Förnamn kan inte ha siffror,Validation,
+lname_empty,Last name is required,Efternamn krävs,Validation,
+lname_number,Last name can't have numbers,Efternamn kan inte ha siffror,Validation,
+e_empty,Email is required,E-post krävs,Validation,
+e_invalid,Please provide a valid email,Var god ange en giltig e-postadress,,
+dob_empty,Date of Birth is required,Födelsedatum krävs,Validation,
+gender_empty,Gender is required,Kön krävs,Validation,
+pw_empty,Password is requried,Lösenord krävs,Validation,
+pwc_empty,Confirmation password is required,Bekräftelselösenord krävs,Validation,
+pwc_mismatch,Passwords don't match,Lösenord matchar inte,Validation,
+ph_empty,Phone number is required,Telefonnummer krävs,Validation,
+ph_invalid,Phone number is not valid,Telefonnumret är inte giltigt,Validation,
+pstc_empty,Postal Code is required,Postnummer krävs,Validation,
+pstc_type_err,Postal Code must be a number.,Postnummer måste vara ett nummer.,Validation,
+country_id_empty,Country is required,Land krävs,Validation,
+region_id_empty,Region is required,Region krävs,Validation,
+city_id_empty,City is required,Stad krävs,Validation,
+city_empty,City name is required,Stadsnamn måste anges,Validation,
+addr_empty,Address is required,Adress krävs,Validation,
+shipping_empty,Shipping Method is required,Leveransmetod krävs,Validation,
+payment_empty,Payment Method is required,Betalningsmetod krävs,Validation,
+start_page,Start Page,,Common,
+search ,Search,Sök,Common,
+load_more,Load More,Ladda mer,Common,
+shop_now,Shop Now,Shoppa nu,Products,
+pay,Pay,Betala,Products,
+proceed_to_checkout,Proceed to Checkout,Fortsätt till utcheckningen,Cart,
+return_home,Return to Home,Återvända hem,Cart,
+save_details,Save Details,Spara detaljer,Account,
+signup,Don't have an account yet?  Sign Up,Har du inget konto än? Bli Medlem,Login,
+login,Login,Logga in,Login,
+forget,Forget Password,Glöm lösenord,Forget ,
+register_submit,Register,Registrera,Register,
+search_placeholder,Search Placeholder,Sök platshållare,Common,
+send_email,Send e-email,Skicka e-post,404 page,
